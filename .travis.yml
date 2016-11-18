@@ -1,4 +1,4 @@
 language: java
 
 script:
-	- javac Bonjour.java 
+ - javac Bonjour.java 
