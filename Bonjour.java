@@ -6,7 +6,7 @@ class Main{
 			fonction("k");
 	}
 
-	public void fonction(String k){
+	static public void fonction(String k){
 		System.out.println("fonction qui fait qqchose");
 		System.out.println("fonction qui fait qqchose2");
 }
