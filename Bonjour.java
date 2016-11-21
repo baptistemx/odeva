@@ -3,6 +3,7 @@ class Main{
 		boolean first = true;		
 		if(first)
 			System.out.println("Bonjour");
+			fonction("k");
 	}
 
 	public void fonction(String k){
