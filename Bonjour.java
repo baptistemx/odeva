@@ -9,3 +9,4 @@ class Main{
 	public void fonction(String k){
 		System.out.println("fonction qui fait qqchose");
 }
+}
